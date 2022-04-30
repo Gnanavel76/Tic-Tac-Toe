@@ -30,8 +30,8 @@ npm start
 
 ## Screenshots
 
-![](https://github.com/Gnanavel76/Tic-Tac-Toe/blob/main/screenshots/Game.JPG)
 ![](https://github.com/Gnanavel76/Tic-Tac-Toe/blob/main/screenshots/Home.JPG)
+![](https://github.com/Gnanavel76/Tic-Tac-Toe/blob/main/screenshots/Game.JPG)
 ![](https://github.com/Gnanavel76/Tic-Tac-Toe/blob/main/screenshots/Winner.png)
 
 ## Made By
